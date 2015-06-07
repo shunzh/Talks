@@ -1,0 +1,20 @@
+phase 1: bell -> meat
+phase 2: bell + light -> meat
+nothing learnt from light, since no eror
+
+phase 1: bell -> meat
+phase 2: light -> bell
+then light -> salited, second order learned
+
+rate of dopamine release: r - V
+current reward - average of past rewards
+TD
+
+Two distinct systems:
+- goal-directed: model based
+  statistical efficiency
+- habitual: S -> R
+  computational efficiency
+Meta decision problem (like modular, but not all policies available)
+
+inferring task pushes people to use model-based learning (?)
