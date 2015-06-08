@@ -1,0 +1,20 @@
+In high dimensions, if minimal is found in many dimensions,
+then very likely to close to the global minimum.
+
+policy search, model-free, model-based 
+
+optimizing features in Q can be done using DL.
+
+issues in deep rl:
+- samples are not iid
+- policy changes rapidly with slight changes in Q-values
+- scale of reward and Q is unknown
+
+solutions:
+- experience replay: break correlation in data, makes it iid
+- freeze target q-network (RHS in Bellman) to avoid oscillations: Fitted Q
+- clip rewards or normalize network adaptively
+
+Deep actor-critic
+
+model-based: error compounding
