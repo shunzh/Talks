@@ -1,0 +1,16 @@
+Children learning
+learn causal relations
+- children can understand cond prob better
+  (e.g. which objects trigger an event)
+human learn priors, then more difficult to overwrite.
+Children hypothesis sampling - high temperature search
+
+--
+The Role of Orbitofrontal Cortex in Cognitive Planning in the Rat (M7)
+
+Planning / model-free
+
+Rate: model-based > model-free
+evidence in brain to support model-based learning
+
+--
