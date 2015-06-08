@@ -14,3 +14,52 @@ Rate: model-based > model-free
 evidence in brain to support model-based learning
 
 --
+Escaping Groundhog Day (M55)
+
+ground: consistent; figure: varies
+environment -> reset? -> agent
+
+--
+Quickly Learning to Make Good Decisions
+
+PAC POMDP: data -> method of moments of POMDP model parameters
+offline policy..
+
+--
+Generalization and Exploration via Value Function Randomization
+
+Exploration: e-greedy, UCB, Thompson sampling
+In LP, UCB: max_a max_\theta theta * a
+       TS:  max_a \theta * a, where \theta ~ N(.,.) <- computational tracable
+
+Shortcomings:
+  not Bayes' opt
+  for large T
+  UCB sensitive to the size of confidence set
+  near opt
+
+Troubling example: assortment opt
+
+"deep exploration" - efficient RL
+(planning to explore in the future ?)
+
+--
+Bootstrapping Skills (M4)
+
+Partition and learn skills, similar to Konidaris
+
+--
+The formation of habits: a computational model mixing reinforcement and Hebbian learning (M23)
+
+Goal-directed actions VS Habits (basal ganglia)
+
+--
+What limits performance in decision making?
+
+Assumptions:
+  Noise in the brain
+  subopt inference, variablity in the sensory
+
+Noises in the brain are not very effective.
+
+--
