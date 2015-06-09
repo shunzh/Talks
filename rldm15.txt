@@ -80,3 +80,29 @@ Mechanism design as a toolbox for alignment of reward
 Each agent reports state, machanism designs A and R.
 
 --
+Reachability and Learning for Hybrid Systems
+
+Safe / unsafe states. dynamic control: transition.
+Connection with target reaching in Dana's lab.
+
+--
+Direct Predictive Collaborative Control of a Prosthetic Arm (T24)
+
+future work: control signal + prediction in context
+
+--
+The Online Discovery Problem and Its Application to Lifelong Reinforcement Learning (T3)
+
+Unknown set of MDPs
+Force exploration
+  if M is novel, A = 1, explore; 0;
+  otherwise, use transferred knowledge, exploit
+compared with: exp first; Hierarchical multi-task
+
+--
+Reinforcement Learning in Decentralized Stochastic Control Systems with Partial History Sharing (T47)
+
+convert multi-agent to single-agent prblem
+
+--
+
