@@ -63,3 +63,20 @@ Assumptions:
 Noises in the brain are not very effective.
 
 --
+Reinforcement learning objectives constrain the cognitive map (M43)
+
+successor representation (reward then discount)
+cell level expoential decay firing rate
+
+--
+ Learning Dynamic Locomotion Skills for Terrains with Obstacles (M15)
+
+dog jumping, close to out motion model
+value / policy estimation in continuous domain using kernel function (using neighbors)
+
+--
+Mechanism design as a toolbox for alignment of reward
+
+Each agent reports state, machanism designs A and R.
+
+--
