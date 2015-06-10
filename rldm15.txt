@@ -105,4 +105,22 @@ Reinforcement Learning in Decentralized Stochastic Control Systems with Partial 
 convert multi-agent to single-agent prblem
 
 --
+Proximal Reinforcement Learning:  Learning to Act in Primal Dual Spaces
+
+Primal <-> Dual
+
+TD learning: 
+  issue (Baird) can be resolved by solving the Dual problem.
+Conjugate projection
+Proximal mapping
+Extragradient TD-learning
+
+Sridhar Mahadevan, Bo Liu, Philip Thomas, Will Dabney, Steve Giguere, Nicholas Jacek, Ian Gemp and Ji Liu, Proximal Reinforcement Learning: A New Theory of Sequential Decision Making in Primal-Dual Spaces, Arxiv, May 26, 2014 (126 pages) 
+
+--
+Ensembles of Shapings (T8)
+
+Multiple objectives by adding different shaping functions
+
+--
 
