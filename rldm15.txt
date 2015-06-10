@@ -123,4 +123,20 @@ Ensembles of Shapings (T8)
 Multiple objectives by adding different shaping functions
 
 --
+Practical RL: Representation, Interaction, Synthesis, and Mortality (PRISM)
 
+Rpresentation
+  prarameterized domains
+  NEAT + Q
+Interaction
+  CMLES
+  PLASTIC
+  TAMER
+Synthesis
+  Layered learning: ~
+  Fitted R-MAXQ
+Morality
+  Transfer learning
+  TEXPLORE: intentially not to explore some states
+
+--
