@@ -140,3 +140,12 @@ Morality
   TEXPLORE: intentially not to explore some states
 
 --
+?
+
+Eigenvector of priminary motions
+
+--
+Reinforcement Learning as Software Engineering
+
+RL is a SE methodology for agent to compile in complex / uncertain envrionments
+
